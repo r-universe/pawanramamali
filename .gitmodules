@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "edgemodelr"]
+	path = edgemodelr
+	url = https://github.com/pawanramamali/edgemodelr
 [submodule "shinypayload"]
 	path = shinypayload
 	url = https://github.com/pawanramamali/shinypayload
